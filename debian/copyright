@@ -1,13 +1,15 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: phosh-config-hwcomposer
-Source: https://github.com/droidian/phosh-config-hwcomposer
+Source: https://github.com/furilabs/phosh-config-hwcomposer
 
 Files: *
 Copyright: 2020 Giuseppe "r3vn" Corti <giuseppe.corti@protonmail.com>
+           2024 Bardia Moshiri <bardia@furilabs.com>
 License: BSD-3-clause
 
 Files: debian/*
 Copyright: 2020 Giuseppe "r3vn" Corti <giuseppe.corti@protonmail.com>
+           2024 Bardia Moshiri <bardia@furilabs.com>
 License: BSD-3-clause
 
 License: BSD-3-clause

@@ -1,15 +1,15 @@
 Source: phosh-config-hwcomposer
-Maintainer: Giuseppe Corti (r3vn) <giuseppe.corti@protonmail.com>
+Maintainer: Bardia Moshiri <bardia@furilabs.com>
 Section: misc
 Priority: optional
-Build-Depends: debhelper (>= 10)
+Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.5.0.3
-Vcs-Browser: https://github.com/droidian/phosh-config-hwcomposer
-Vcs-Git: https://github.com/droidian/phosh-config-hwcomposer.git
+Vcs-Browser: https://github.com/furilabs/phosh-config-hwcomposer
+Vcs-Git: https://github.com/furilabs/phosh-config-hwcomposer.git
 
 Package: phosh-config-hwcomposer
 Architecture: all
-Pre-Depends: phosh, libhybris
+Pre-Depends: libhybris
 Depends: ${misc:Depends},
          halium-wrappers (>= 10),
 Description: APT configurations for droidian
