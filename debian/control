@@ -3,7 +3,7 @@ Maintainer: Bardia Moshiri <bardia@furilabs.com>
 Section: misc
 Priority: optional
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.5.0.3
+Standards-Version: 4.7.0
 Vcs-Browser: https://github.com/furilabs/phosh-config-hwcomposer
 Vcs-Git: https://github.com/furilabs/phosh-config-hwcomposer.git
 
